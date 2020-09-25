@@ -1,0 +1,14 @@
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/CurrencyExchange.deps.json
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/CurrencyExchange.runtimeconfig.json
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/CurrencyExchange.runtimeconfig.dev.json
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/CurrencyExchange.dll
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/CurrencyExchange.pdb
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.csprojAssemblyReference.cache
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.AssemblyInfoInputs.cache
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.AssemblyInfo.cs
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.csproj.CoreCompileInputs.cache
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.dll
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.pdb
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.genruntimeconfig.cache
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/obj/Debug/netcoreapp3.1/CurrencyExchange.csproj.CopyComplete

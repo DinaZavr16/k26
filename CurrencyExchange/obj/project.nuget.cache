@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R6jV8zhZTu7HssbbQ27rLEla2Ids55uoNyP/CnpJsNeRY4GAZxH/T1hHWP2QwDk3g/KZDXfM9wrqJOzClnlYEA==",
+  "success": true,
+  "projectFilePath": "/Users/dina_f/Projects/CurrencyExchange/CurrencyExchange/CurrencyExchange.csproj",
+  "expectedPackageFiles": [
+    "/Users/dina_f/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
